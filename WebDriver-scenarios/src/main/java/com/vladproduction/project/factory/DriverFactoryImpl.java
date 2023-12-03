@@ -1,4 +1,4 @@
-package com.vladproduction.factory;
+package com.vladproduction.project.factory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

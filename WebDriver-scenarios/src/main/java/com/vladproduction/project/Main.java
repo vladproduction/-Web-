@@ -1,9 +1,7 @@
-package com.vladproduction;
+package com.vladproduction.project;
 
-import com.vladproduction.factory.DriverFactory;
-import com.vladproduction.factory.DriverFactoryImpl;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import com.vladproduction.project.factory.DriverFactory;
+import com.vladproduction.project.factory.DriverFactoryImpl;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
